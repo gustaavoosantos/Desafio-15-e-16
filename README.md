@@ -2,8 +2,8 @@ O nosso Desafio dessa semana,  foi utilizar os conceitos de flexbox e, finalizar
 
 
 
-
-![Desafio 15 e 16](https://github.com/gustaavoosantos/Desafio-15-e-16/assets/163207767/f9ca6cbd-77b0-4f4d-ac61-fc1de2a9db61)
-
+Projeto Finalizado
 
 
+
+![Captura de tela de 2024-04-29 18-42-33](https://github.com/gustaavoosantos/Desafio-15-e-16/assets/163207767/33df3eb2-9267-403e-866b-bd20d321227d)
