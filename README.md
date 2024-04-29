@@ -1,4 +1,4 @@
-O nosso Desafio dessa semana,  foi utilizar os conceitos de flexbox e, finalizar o site do IGN iniciado em nossa aula.
+O nosso Desafio dessa semana,  foi utilizar os conceitos de flexbox e, finalizar o site do IGN que iniciamos na aula.
 
 
 
